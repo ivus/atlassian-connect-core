@@ -1,10 +1,10 @@
 {
-    "name": "brezzhnev/atlassian-connect-core",
+    "name": "ivus/atlassian-connect-core",
     "type": "library",
     "description": "Atlassian Connect Framework to build add-on for the JIRA and Confluence",
     "keywords": [
         "laravel",
-        "brezzhnev",
+        "ivus",
         "atlassian",
         "jira",
         "confluence",
@@ -12,13 +12,12 @@
     ],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/brezzhnev/atlassian-connect-core/issues",
-        "source": "https://github.com/brezzhnev/atlassian-connect-core"
+        "source": "https://github.com/ivus/atlassian-connect-core"
     },
     "authors": [
         {
-            "name": "Artem Brezhnev",
-            "email": "brezzhnev@gmail.com"
+            "name": "Suvi",
+            "email": "email@gmail.com"
         }
     ],
     "require": {
